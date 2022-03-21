@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "coursifyme",
+    "slug": "coursifyme",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "coursifyme"
+}
